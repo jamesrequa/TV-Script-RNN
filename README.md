@@ -1,4 +1,4 @@
-# Recurrent Neural Network for TV Script generation (work in progress)
+# Recurrent Neural Network for TV Script generation
 
 I built a Recurrent Neural Network (i.e. RNN) that can be used to generate new TV scripts for the Simpsons show with a loss rate of .004 My dataset consists of a subset of the Simpsons dataset of scripts from 27 seasons.
 
