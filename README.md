@@ -1,6 +1,6 @@
 # Recurrent Neural Network for TV Script generation
 
-I built a Recurrent Neural Network (i.e. RNN) that can be used to generate new TV scripts for the Simpsons show with a loss rate of 0.004 My dataset consists of a subset of the Simpsons dataset of scripts from 27 seasons.
+I built a Recurrent Neural Network (i.e. RNN) that can be used to generate new TV scripts for the Simpsons show with a loss rate of 0.004. My dataset consists of a subset of the Simpsons dataset of scripts from 27 seasons.
 
 The RNN is built on TensorFlow, written in Python 3 and is presented via Jupyter Notebook. The RNN was trained on a cloud-based GPU using FloydHub. 
 
